@@ -19,19 +19,5 @@
         "^1.0.0": "consumeStatusBar"
       }
     }
-  },
-  "devDependencies": {
-    "standard": "^10.0.3"
-  },
-  "standard": {
-    "globals": [
-      "atom",
-      "beforeEach",
-      "describe",
-      "expect",
-      "it",
-      "jasmine",
-      "spyOn"
-    ]
   }
 }
