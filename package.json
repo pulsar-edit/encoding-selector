@@ -4,7 +4,7 @@
   "main": "./lib/main",
   "description": "Select the encoding to use for the current editor with `ctrl-shift-U`.",
   "license": "MIT",
-  "repository": "https://github.com/atom/encoding-selector",
+  "repository": "https://github.com/pulsar-edit/encoding-selector",
   "engines": {
     "atom": ">=0.141.0"
   },
@@ -19,19 +19,5 @@
         "^1.0.0": "consumeStatusBar"
       }
     }
-  },
-  "devDependencies": {
-    "standard": "^10.0.3"
-  },
-  "standard": {
-    "globals": [
-      "atom",
-      "beforeEach",
-      "describe",
-      "expect",
-      "it",
-      "jasmine",
-      "spyOn"
-    ]
   }
 }
